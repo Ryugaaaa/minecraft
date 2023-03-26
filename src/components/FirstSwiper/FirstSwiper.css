@@ -1,0 +1,27 @@
+.swiperbody {
+   width: 1450px;
+   height: 960px;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   margin: -1861px 0 0 215px;
+   align-items: center;
+}
+
+.headtext {
+   font-size: 23px;
+   font-weight: bold;
+   padding: 110px 260px 0 260px;
+}
+
+.swiper {
+   max-width: 1450px;
+   width: 100%;
+   height: 100px;
+   position: absolute;
+   margin: 0 0 0 200px;
+}
+
+.minecraftdungeons {
+   width: 100%;
+   height: 100px;
+}

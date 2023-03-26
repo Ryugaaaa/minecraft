@@ -1,0 +1,97 @@
+@font-face {
+   font-family: "Minecraftia";
+   src: url("./font/Minecraftia.ttf") format("truetype");
+}
+
+.getminecraft {
+   font-weight: normal;
+   font-style: normal;
+   width: 100%;
+   height: 790px;
+}
+
+.bg {
+   width: 100%;
+   height: 790px;
+}
+
+.text1 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   font-size: 40px;
+   letter-spacing: 0.15em;
+   padding: 220px 0 0 70px;
+   font-weight: bold;
+}
+
+.text2 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   font-size: 40px;
+   letter-spacing: 0.15em;
+   padding: 280px 0 0 70px;
+   font-weight: bold;
+}
+
+.text4 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   letter-spacing: 0.06em;
+   padding: 380px 0 0 70px;
+}
+
+.text5 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   letter-spacing: 0.06em;
+   padding: 410px 0 0 70px;
+}
+
+.text6 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   letter-spacing: 0.06em;
+   padding: 440px 0 0 70px;
+}
+
+.text7 {
+   color: #071927;
+   font-family: "Minecraftia";
+   position: absolute;
+   letter-spacing: 0.06em;
+   padding: 470px 0 0 70px;
+}
+
+.preorderbtn {
+   font-family: "Minecraftia";
+   position: absolute;
+   top: 70%;
+   left: 10%;
+   transform: translate(-50%, -50%);
+   font-size: 20px;
+   padding: 5px 20px 5px 20px;
+   background-color: #fddf93;
+   box-sizing: border-box;
+   border: 1px solid #000000;
+   box-shadow: inset 0 -2px 5px rgb(216, 151, 0);
+   border: none;
+   cursor: pointer;
+   border-radius: 5%;
+}
+
+.preorderbtn:hover {
+   box-shadow: 0 0 10px gray;
+   color: #fff;
+   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+      0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+   background-color: #ffc229;
+   transition: 0.5s;
+   border-color: black;
+   border-style: solid;
+   border-width: 1px;
+}
