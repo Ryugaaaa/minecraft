@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import GetMinecraft from "./components/GetMinecraft/GetMinecraft";
 import SwiperBackground from "./components/SwiperBackground/SwiperBackground";
 import FirstSwiper from "./components/FirstSwiper/FirstSwiper";
+import RedeemPage from "./components/RedeemPage/RedeemPage";
 
 function App() {
    return (
@@ -14,6 +15,7 @@ function App() {
          <GetMinecraft />
          <SwiperBackground />
          <FirstSwiper />
+         <RedeemPage />
       </div>
    );
 }

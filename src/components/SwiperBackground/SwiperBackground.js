@@ -17,8 +17,6 @@ function SwiperBackground() {
          <img src={bg4} className="bg_4" alt="background 4" />
          <img src={bg5} className="bg_5" alt="background 5" />
          <img src={bg6} className="bg_6" alt="background 6" />
-         <img src={bg7} className="bg_7" alt="background 7" />
-         <img src={bg8} className="bg_8" alt="background 8" />
       </div>
    );
 }
